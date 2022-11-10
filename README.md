@@ -4,7 +4,7 @@
 <p><em>Service Engineer at <a href="https://github.com/plan-cy">Plan-cy</a><img src="https://media.giphy.com/media/11dR2hEgtN5KoM/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: Juan Calatayud](https://img.shields.io/badge/-RayKo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-carlos-c-730a21145/)](https://www.linkedin.com/in/juan-carlos-c-730a21145/)
+[![Linkedin: Juan Calatayud](https://img.shields.io/badge/-JuanCarlos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-carlos-c-730a21145/)](https://www.linkedin.com/in/juan-carlos-c-730a21145/)
 ![GitHub followers](https://img.shields.io/github/followers/jccm17?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=jccm17)
 ![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg)
